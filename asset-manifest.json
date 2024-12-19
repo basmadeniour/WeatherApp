@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/http//:basmadeniour.github.io/WeatherApp/static/css/main.33fde6ba.css",
+    "main.js": "/http//:basmadeniour.github.io/WeatherApp/static/js/main.379e0d2e.js",
+    "static/js/488.a51a94a3.chunk.js": "/http//:basmadeniour.github.io/WeatherApp/static/js/488.a51a94a3.chunk.js",
+    "static/media/bg.webp": "/http//:basmadeniour.github.io/WeatherApp/static/media/bg.5791bb2f1bc7601e223f.webp",
+    "static/media/no-result.svg": "/http//:basmadeniour.github.io/WeatherApp/static/media/no-result.a3f50b42ab3f1259d6f9657d3eb0ca14.svg",
+    "index.html": "/http//:basmadeniour.github.io/WeatherApp/index.html",
+    "main.33fde6ba.css.map": "/http//:basmadeniour.github.io/WeatherApp/static/css/main.33fde6ba.css.map",
+    "main.379e0d2e.js.map": "/http//:basmadeniour.github.io/WeatherApp/static/js/main.379e0d2e.js.map",
+    "488.a51a94a3.chunk.js.map": "/http//:basmadeniour.github.io/WeatherApp/static/js/488.a51a94a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33fde6ba.css",
+    "static/js/main.379e0d2e.js"
+  ]
+}
