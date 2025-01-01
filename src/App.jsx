@@ -1,7 +1,7 @@
 import './App.css';
 import CurrentWeather from './components/CurrentWeather';
 import Search from './components/Search-sec/Search-sec';
-import HourlyItems from './components/HourlyItems';
+// import HourlyItems from './components/HourlyItems';
 import Invaiddd from "./components/Assets/no-result.svg"
 import { useState } from 'react';
 
@@ -11,7 +11,7 @@ const API_KEY = "0c42f7f6b53b244c78a418f4f181282a";
 
 function App() {
   const [currentWeather, setCurrentWeather] = useState({});
-  const [hourlyWeather, setHourlyWeather] = useState([]);
+  const [ setHourlyWeather] = useState([]);
   const [showPrompt, setShowPrompt] = useState(true); 
   const [invalidCity, setInvalidCity] = useState(false); // Tracks invalid input
 
